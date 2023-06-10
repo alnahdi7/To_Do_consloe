@@ -1,7 +1,7 @@
 ﻿
 List<string> list_to_do = new List<string>();
 bool runnig = true;
-
+//  ok
 
 while (runnig == true)
 {
