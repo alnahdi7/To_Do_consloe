@@ -1,0 +1,15 @@
+C:\Users\malnahdi\source\repos\To_Do_consloe\To_Do_consloe\bin\Debug\net6.0\To_Do_consloe.exe
+C:\Users\malnahdi\source\repos\To_Do_consloe\To_Do_consloe\bin\Debug\net6.0\To_Do_consloe.deps.json
+C:\Users\malnahdi\source\repos\To_Do_consloe\To_Do_consloe\bin\Debug\net6.0\To_Do_consloe.runtimeconfig.json
+C:\Users\malnahdi\source\repos\To_Do_consloe\To_Do_consloe\bin\Debug\net6.0\To_Do_consloe.dll
+C:\Users\malnahdi\source\repos\To_Do_consloe\To_Do_consloe\bin\Debug\net6.0\To_Do_consloe.pdb
+C:\Users\malnahdi\source\repos\To_Do_consloe\To_Do_consloe\obj\Debug\net6.0\To_Do_consloe.csproj.AssemblyReference.cache
+C:\Users\malnahdi\source\repos\To_Do_consloe\To_Do_consloe\obj\Debug\net6.0\To_Do_consloe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malnahdi\source\repos\To_Do_consloe\To_Do_consloe\obj\Debug\net6.0\To_Do_consloe.AssemblyInfoInputs.cache
+C:\Users\malnahdi\source\repos\To_Do_consloe\To_Do_consloe\obj\Debug\net6.0\To_Do_consloe.AssemblyInfo.cs
+C:\Users\malnahdi\source\repos\To_Do_consloe\To_Do_consloe\obj\Debug\net6.0\To_Do_consloe.csproj.CoreCompileInputs.cache
+C:\Users\malnahdi\source\repos\To_Do_consloe\To_Do_consloe\obj\Debug\net6.0\To_Do_consloe.dll
+C:\Users\malnahdi\source\repos\To_Do_consloe\To_Do_consloe\obj\Debug\net6.0\refint\To_Do_consloe.dll
+C:\Users\malnahdi\source\repos\To_Do_consloe\To_Do_consloe\obj\Debug\net6.0\To_Do_consloe.pdb
+C:\Users\malnahdi\source\repos\To_Do_consloe\To_Do_consloe\obj\Debug\net6.0\To_Do_consloe.genruntimeconfig.cache
+C:\Users\malnahdi\source\repos\To_Do_consloe\To_Do_consloe\obj\Debug\net6.0\ref\To_Do_consloe.dll
